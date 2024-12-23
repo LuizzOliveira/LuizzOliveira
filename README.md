@@ -22,7 +22,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-%234e29ce.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![API REST](https://img.shields.io/badge/API%20REST-%234e29ce?style=flat&logo=apiresponse&logoColor=white)
+
 
 
 ### Tools:
@@ -41,6 +41,7 @@
 ### Studying in this moment:
 ![C#](https://img.shields.io/badge/C%23-%234e29ce.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![API REST](https://img.shields.io/badge/API%20REST-%234e29ce?style=flat&logo=apiresponse&logoColor=white)
 
 
 
