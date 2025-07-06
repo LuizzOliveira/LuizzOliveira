@@ -20,8 +20,11 @@
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/C%23-%234e29ce.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%234e29ce.svg?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
@@ -42,6 +45,7 @@
 ![C#](https://img.shields.io/badge/C%23-%234e29ce.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![API REST](https://img.shields.io/badge/API%20REST-%234e29ce?style=flat&logo=apiresponse&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
 
